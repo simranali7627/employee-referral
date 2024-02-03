@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "employee-referral-ef25e": {
+      "hosting": {
+        "employee-referral": [
+          "employee-referral-ef25e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "employee-referral-ef25e"
+  }
+}
